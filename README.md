@@ -1,5 +1,7 @@
 # Headless Domains Agent Skills
 
+[![Agent Skills](https://skills.sh/b/headlessdomains/skills)](https://skills.sh/headlessdomains/skills)
+
 Welcome to the **Headless Domains** Agent Skills repository. These skills provide "Agentic SEO" and machine-discoverability for the Headless Domains platform, allowing autonomous AI agents to seamlessly interact with our API.
 
 ## About
