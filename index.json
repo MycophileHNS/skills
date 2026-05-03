@@ -1,0 +1,13 @@
+{
+  "name": "headlessdomains/skills",
+  "version": "1.0.0",
+  "description": "Agentic SEO and machine-discoverability for Headless Domains",
+  "author": "headlessdomains",
+  "url": "https://headlessdomains.com",
+  "skills": {
+    "domain-search": "./skills/domain-search",
+    "domain-lookup": "./skills/domain-lookup",
+    "domain-register": "./skills/domain-register",
+    "bio-sync": "./skills/bio-sync"
+  }
+}
